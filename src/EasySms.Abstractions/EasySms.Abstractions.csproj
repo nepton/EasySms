@@ -5,13 +5,12 @@
     <RootNamespace>EasySms</RootNamespace>
   </PropertyGroup>
 
-
   <PropertyGroup>
-    <PackageId>SecurityPassword</PackageId>
-    <Description>A simple toolkits for keeping password security</Description>
-    <PackageProjectUrl>https://github.com/nepton/SecurityPassword</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/nepton/SecurityPassword.git</RepositoryUrl>
-    <PackageTags>security;safe;password;encrypt;salt</PackageTags>
+    <PackageId>EasySms.Abstractions</PackageId>
+    <Description>The sms sender abstractions</Description>
+    <PackageProjectUrl>https://github.com/nepton/EasySms</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/nepton/EasySms.git</RepositoryUrl>
+    <PackageTags>sms;message</PackageTags>
 
     <Authors>Nepton Liu</Authors>
     <PackageIcon>icon.png</PackageIcon>
