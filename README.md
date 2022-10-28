@@ -1,5 +1,5 @@
 ﻿# EasySms
-[![Build status](https://ci.appveyor.com/api/projects/status/qsc7d2uwxopdx2d8?svg=true)](https://ci.appveyor.com/project/nepton/securitypassword)
+[![Build status](https://ci.appveyor.com/api/projects/status/gv3je9e9u1glrj39?svg=true)](https://ci.appveyor.com/project/nepton/easysms)
 [![CodeQL](https://github.com/nepton/EasySms/actions/workflows/codeql.yml/badge.svg)](https://github.com/nepton/EasySms/actions/workflows/codeql.yml)
 ![GitHub issues](https://img.shields.io/github/issues/nepton/EasySms.svg)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nepton/EasySms/blob/master/LICENSE)
