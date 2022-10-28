@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5309EC62-08D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{D89EE3E4-AABD-439A-A3CB-8EDA27EA32B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doulex.Sms.Abstractions", "src\Doulex.Sms.Abstractions\Doulex.Sms.Abstractions.csproj", "{FA82C172-F4B6-4E82-B43D-FF63FA90A6DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySms.Abstractions", "src\EasySms.Abstractions\EasySms.Abstractions.csproj", "{FA82C172-F4B6-4E82-B43D-FF63FA90A6DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doulex.Sms.Aliyun", "src\Doulex.Sms.Aliyun\Doulex.Sms.Aliyun.csproj", "{5D69BA1A-B4D7-4107-BC0C-47C49E311A8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySms.Aliyun", "src\EasySms.Aliyun\EasySms.Aliyun.csproj", "{5D69BA1A-B4D7-4107-BC0C-47C49E311A8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

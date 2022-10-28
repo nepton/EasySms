@@ -1,9 +1,9 @@
-﻿namespace Doulex.Sms.Abstractions
+﻿namespace EasySms
 {
     /// <summary>
-    /// 短消息发送回应
+    /// A template message is sent in response
     /// </summary>
-    public enum SmsResponse
+    public enum SmsPostResponse
     {
         Succeeded,
         Exception,

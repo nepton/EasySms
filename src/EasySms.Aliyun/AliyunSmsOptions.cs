@@ -1,27 +1,27 @@
 ﻿using System.Collections.Generic;
 
-namespace Doulex.Sms.Aliyun
+namespace EasySms.Aliyun
 {
-    public class AliyunSmsConfig
+    public class AliyunSmsOptions
     {
         /// <summary>
-        /// 应用 Key
+        /// APP Key
         /// </summary>
         public string AppKeyId { get; set; }
 
         /// <summary>
-        /// 应用密钥
+        /// App secret
         /// </summary>
         public string AppSecret { get; set; }
 
         /// <summary>
-        /// 签名
+        /// The signature in the SMS template
         /// </summary>
         public string SignName { get; set; }
 
         /// <summary>
         /// template of sms
         /// </summary>
-        public Dictionary<string, string> Templates { get; set; }
+        public Dictionary<string, string> Templates { get; set; } = new();
     }
 }

@@ -2,7 +2,7 @@
 using Aliyun.Acs.Core.Transform;
 using Aliyun.Acs.Core.Utils;
 
-namespace Doulex.Sms.Aliyun
+namespace EasySms.Aliyun
 {
     public class SendSmsRequest : RpcAcsRequest<SendSmsResponse>
     {

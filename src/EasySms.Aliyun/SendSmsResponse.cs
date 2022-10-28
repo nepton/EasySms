@@ -1,6 +1,6 @@
 ﻿using Aliyun.Acs.Core;
 
-namespace Doulex.Sms.Aliyun
+namespace EasySms.Aliyun
 {
     public class SendSmsResponse : AcsResponse
     {
